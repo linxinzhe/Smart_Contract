@@ -1,1 +1,1 @@
-geth --identity "etherdev1" --rpc --rpcport "8080" --rpccorsdomain "*" --datadir "/home/ethereum/etherdev1" --port "30303" --nodiscover --rpcapi "db,eth,net,web3" --networkid 1999 console
+geth --identity "etherdev1" --rpc --rpcport "8080" --rpccorsdomain "*" --datadir "~/ethereum/etherdev1" --port "30303" --nodiscover --rpcapi "db,eth,net,web3" --networkid 1999 console
